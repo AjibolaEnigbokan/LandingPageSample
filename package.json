@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "localtunnel": "^2.0.2"
+  },
+  "name": "landing_page_apartofme_template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "golive": "lt --port 5502"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
